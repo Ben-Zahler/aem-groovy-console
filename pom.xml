@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>be.orbinson.aem</groupId>
     <artifactId>aem-groovy-console</artifactId>
     <packaging>pom</packaging>
-    <version>19.2.1-SNAPSHOT</version>
+    <version>19.2.1-AXA</version>
 
     <name>AEM Groovy Console</name>
     <description>
@@ -61,7 +59,8 @@
         <connection>scm:git:git@github.com:orbinson/aem-groovy-console.git</connection>
         <developerConnection>scm:git:git@github.com:orbinson/aem-groovy-console.git</developerConnection>
         <url>https://github.com/orbinson/aem-groovy-console</url>
-    </scm>
+      <tag>19.2.1-AXA</tag>
+  </scm>
 
     <issueManagement>
         <system>GitHub</system>
@@ -308,7 +307,7 @@
                                         <href>http://groovy.codehaus.org/api</href>
                                     </link>
                                 </links>
-                                <footer>&lt;a href=&quot;https://github.com/orbinson/aem-groovy-console&quot;&gt;GitHub&lt;/a&gt;</footer>
+                                <footer>&lt;a href="https://github.com/orbinson/aem-groovy-console"&gt;GitHub&lt;/a&gt;</footer>
                             </configuration>
                         </execution>
                     </executions>

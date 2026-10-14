@@ -6,7 +6,7 @@
     <parent>
         <groupId>be.orbinson.aem</groupId>
         <artifactId>aem-groovy-console</artifactId>
-        <version>19.2.1-AXA</version>
+        <version>19.2.2-AXA-SNAPSHOT</version>
     </parent>
 
     <packaging>pom</packaging>

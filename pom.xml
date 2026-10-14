@@ -6,7 +6,7 @@
     <groupId>be.orbinson.aem</groupId>
     <artifactId>aem-groovy-console</artifactId>
     <packaging>pom</packaging>
-    <version>19.2.1-AXA</version>
+    <version>19.2.2-AXA-SNAPSHOT</version>
 
     <name>AEM Groovy Console</name>
     <description>
@@ -59,7 +59,7 @@
         <connection>scm:git:git@github.com:orbinson/aem-groovy-console.git</connection>
         <developerConnection>scm:git:git@github.com:orbinson/aem-groovy-console.git</developerConnection>
         <url>https://github.com/orbinson/aem-groovy-console</url>
-      <tag>19.2.1-AXA</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <issueManagement>
